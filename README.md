@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(november 15, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ben Buchalter )
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(in this assignment i used jquery to dynamically view different recipes.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/Benb2896/lesson7_jquery)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jquery hover elements .)
+2. (jquery on click events .)
+3. (jquery editing css elements .)
 

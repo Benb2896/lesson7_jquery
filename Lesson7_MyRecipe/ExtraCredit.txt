@@ -1,0 +1,2 @@
+to enhance the beer battered onion recipe, i added a clone function that clones the first bullet and adds it to the end of the recipe. 
+within the clone function i used  jquery appendto and first
